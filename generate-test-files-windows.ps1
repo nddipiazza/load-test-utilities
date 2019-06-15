@@ -1,6 +1,6 @@
 # create a ton of text files on windows.
 
-$ParentFolder=’C:\loadtest’
+$ParentFolder='C:\loadtest'
 
 for ($folderIdx=0;$folderIdx -lt 100;$folderIdx++)
 {
